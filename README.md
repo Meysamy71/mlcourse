@@ -8,4 +8,4 @@
    1. [S3-01](https://github.com/Meysamy71/mlcourse/tree/main/S3/S3-01)
    2. [S3-02](https://github.com/Meysamy71/mlcourse/tree/main/S3/S3-02)
    3. [S3-03](https://github.com/Meysamy71/mlcourse/tree/main/S3/S3-03)
-   2. [S3-03](https://github.com/Meysamy71/mlcourse/tree/main/S3/S3-04)
+   2. [S3-04](https://github.com/Meysamy71/mlcourse/tree/main/S3/S3-04)
