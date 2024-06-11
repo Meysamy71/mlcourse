@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+dash
+dash-bootstrap-components
+mplsoccer
+plotly
+pillow
+dash-canvas
